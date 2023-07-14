@@ -1,0 +1,1 @@
+Burda verileri exel e aktarma işlemi yaptık bu iskelet üzerinden gelen veriyi ayırıp tablolama işlemini anında yapabiliriz.(İhtiyaca göre geliştirilmesi gerekli)
